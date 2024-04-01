@@ -6,13 +6,5 @@ Here you can find a movie that shows the whole timecourse of embryonic developme
 
 Gilbert, S. F. (2014). Developmental Biology. Sunderland, MA: Sinauer Associates. Chapter: "The genetics of axis specification in Drosophila"
 
-https://github.com/RmmlAndReas/rmmlandreas.github.io/assets/75020163/78f968b0-afbc-4721-a7d5-215a2cfa5d1e
-
-
 <video src="https://github.com/RmmlAndReas/rmmlandreas.github.io/assets/75020163/78f968b0-afbc-4721-a7d5-215a2cfa5d1e" controls="controls" style="max-width: 730px;">
 </video>
-
-<iframe width="420" height="315" src="(https://github.com/RmmlAndReas/rmmlandreas.github.io/assets/75020163/78f968b0-afbc-4721-a7d5-215a2cfa5d1e" frameborder="0" allowfullscreen></iframe>
-
-
-              
