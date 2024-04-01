@@ -6,7 +6,3 @@ Here you can find a movie that shows the whole timecourse of embryonic developme
 
 Gilbert, S. F. (2014). Developmental Biology. Sunderland, MA: Sinauer Associates. Chapter: "The genetics of axis specification in Drosophila"
 
-<figure class="video_container">
-  <iframe src="17_11_2023_Coboldia_hatching_pos5.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
